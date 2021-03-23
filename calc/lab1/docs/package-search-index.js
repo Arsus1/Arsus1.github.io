@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.arsus1"},{"l":"io.github.arsus1.exceptions"}]

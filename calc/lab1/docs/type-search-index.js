@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"io.github.arsus1","l":"Cli"},{"p":"io.github.arsus1","l":"Matrix"},{"p":"io.github.arsus1","l":"SimpleIterationsSolver"},{"p":"io.github.arsus1","l":"Solution"},{"p":"io.github.arsus1","l":"Solver"},{"p":"io.github.arsus1.exceptions","l":"SolverException"}]
